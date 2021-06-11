@@ -1,0 +1,17 @@
+.card-titulo{
+    text-align: center;
+    font-size: 35px;
+    color: rgba(25, 3, 50, 0.824);
+}
+
+.id-container{
+    text-align: justify;
+    margin-left: 150px;
+    margin-right:150px ;
+}
+
+.card-container { 
+    width: 700px;
+    height: 400px;
+    margin-left: 150px;
+}
